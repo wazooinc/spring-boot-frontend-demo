@@ -8,7 +8,7 @@ module.exports = {
         path: path.resolve(__dirname + '/../resources/static/'),
         filename: pkg.main,
         library: {
-            name: 'components',
+            name: 'components', // window.components.<component-name>
             type: 'umd',
             umdNamedDefine: true
         },
