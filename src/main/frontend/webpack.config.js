@@ -5,7 +5,7 @@ module.exports = {
     entry: pkg.source,
 
     output: {
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname + '/../resources/static/'),
         filename: pkg.main,
         library: {
             name: 'components',
