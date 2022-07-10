@@ -1,0 +1,1 @@
+{"version":3,"file":"components.js","sources":["src/components/HelloWorld.js"],"sourcesContent":["import React from 'react';\r\n\r\nfunction HelloWorld() {\r\n    return (\r\n        <h1>Hello World Component</h1>\r\n    );\r\n}\r\n\r\nexport default HelloWorld;"],"names":["React","createElement"],"mappings":"yLAEA,WACI,OACIA,EADJ,QAAAC,cAAA,KAAA,KAAA"}
