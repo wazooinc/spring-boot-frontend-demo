@@ -7,7 +7,7 @@ function HelloList(data) {
 
     return (
         <>
-            <h2>Here's some data!</h2>
+            <h2>Here's some data</h2>
             <ul>{items}</ul>
         </>
     );
